@@ -1,0 +1,18 @@
+#root {
+  width: 100%;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.card {
+  padding: 0;
+  background: transparent;
+  box-shadow: none;
+}
+
+.main-container {
+  width: 70%;
+  margin: 0 auto;
+  max-width: 700px;
+  min-width: 300px;
+}
