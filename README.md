@@ -8,6 +8,7 @@ O **Gerador de Senhas** é um projeto com uma API backend em Python (Flask) para
 - **Frontend**: Construído com React e Vite, garantindo uma experiência de usuário moderna e responsiva.
   
 ## Passos para Executar o Projeto
+Instalar Pyhton e npm
 
 1. **Clonar o repositório:**:
 
