@@ -17,7 +17,7 @@ O **Gerador de Senhas** é um projeto com uma API backend em Python (Flask) para
 2. **Navegue até a pasta do backend:**:
 
    ```bash
-   cd Gerador-de-senhas/backend
+   cd Gerador-de-senhas/src/backend
 
 3. **Instalar as dependências:**:
 
