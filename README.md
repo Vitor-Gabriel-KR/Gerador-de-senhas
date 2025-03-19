@@ -8,8 +8,8 @@ O **Gerador de Senhas** é um projeto com uma API backend em Python (Flask) para
 - **Frontend**: Construído com React e Vite, garantindo uma experiência de usuário moderna e responsiva.
   
 ## Pre-Requisitos
-- Python 3.0.9 + : python.org 
-- Node.js v23.5.0 + :nodejs.org
+- [Python 3.0.9 +](https://www.python.org)
+- [Node.js v23.5.0 +](https://nodejs.org)
 
 ## Passos para Executar o Projeto
 
